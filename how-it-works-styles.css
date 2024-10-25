@@ -39,7 +39,7 @@
 }
 
 .how-to-header {
-    background-image: url('/Images/FAQsHeader.png');
+    background-image: url('./Images/FAQsHeader.png');
     min-height: calc(60vh);
 }
 
