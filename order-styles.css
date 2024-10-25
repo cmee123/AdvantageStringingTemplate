@@ -1,5 +1,5 @@
 .order-header {
-    background-image: url('/Images/PricingHeader.png');
+    background-image: url('./Images/PricingHeader.png');
     min-height: calc(60vh);
 }
 
