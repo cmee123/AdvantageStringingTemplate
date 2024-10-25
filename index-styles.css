@@ -1,6 +1,6 @@
 
 .index-header {
-    background-image: url('/Images/IndexHeader3.jpg');
+    background-image: url('./Images/IndexHeader3.jpg');
     min-height: calc(100vh - 56px);
 }
 
