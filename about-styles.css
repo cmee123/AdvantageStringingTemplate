@@ -5,7 +5,7 @@
 }
 
 .about-header {
-    background-image: url('/Images/AboutHeader.jpg');
+    background-image: url('./Images/AboutHeader.jpg');
     min-height: calc(60vh);
 }
 
