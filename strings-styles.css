@@ -1,5 +1,5 @@
 .string-header {
-    background-image: url('/Images/strings_header.png');
+    background-image: url('./Images/strings_header.png');
     min-height: calc(60vh);
 }
 
