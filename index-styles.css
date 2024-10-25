@@ -48,19 +48,19 @@
 }
 
 .string-nav-img {
-    background-image: url('/Images/strings-nav-image.jpg');
+    background-image: url('./Images/strings-nav-image.jpg');
 }
 
 .how-nav-img {
-    background-image: url('/Images/strings.png');
+    background-image: url('./Images/strings.png');
 }
 
 .owners-nav-img {
-    background-image: url('/Images/owners-nav-image.png');
+    background-image: url('./Images/owners-nav-image.png');
 }
 
 .events-nav-img {
-    background-image: url('/Images/events-nav-image.png');
+    background-image: url('./Images/events-nav-image.png');
 }
 
 .nav-img-overlay {
